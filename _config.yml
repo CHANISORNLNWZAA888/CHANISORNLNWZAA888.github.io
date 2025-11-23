@@ -1,14 +1,14 @@
-title: "CyberSafe by [Your Name]"
+title: "CyberSafe by Chanisorn"
 tagline: "Simple cybersecurity knowledge anyone can understand"
 description: "A clean, beginner-friendly website teaching practical cybersecurity for everyday life."
-url: "https://CHANISORNLNWZAA888.github.io"
+
+url: "https://chanisornlnwzaa888.github.io"
 baseurl: ""
 
-theme: jekyll-theme-chirpy
+theme: null
 
 lang: en
 
-# Navigation order
 tabs:
   - about
   - basics
@@ -17,7 +17,8 @@ tabs:
   - quiz
 
 social:
-  github: CHANISORNLNWZAA888
+  github: chanisornlnwzaa888
 
 markdown: kramdown
 highlighter: rouge
+
